@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notebook
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation = "C:\Users\zxceb\Desktop\ct\ct.xsd">
+	<offices>
+		<office code = "ITHUB">  ITHUB</office>
+	</offices>
+	<person id = "A0">
+		<name>
+			<first>   Ivan</first>
+			<surname>   Ivanov</surname>
+		</name>
+		<address>
+			<city> Moscow </city>
+			<street> Babasd</street>
+			<index> 123100 </index>
+		</address>
+		<phones>
+			<phone type = "work">987-65-43</phone>
+		</phones>
+	</person>
+</notebook>
